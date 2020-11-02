@@ -4,3 +4,8 @@
 
 ## System Requirements
   * Ruby 2.x
+
+## Use
+  ./pdf_viewer_parser.rb document_code [-l]
+
+  * l - landscape (portrait as default)
